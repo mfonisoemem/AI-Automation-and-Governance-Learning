@@ -110,3 +110,14 @@ It should also be measured by how responsibly we build them, how securely they o
 ---
 
 *These are my learning reflections on cybersecurity, AI security and responsible technology development. This document will evolve as I continue researching real-world incidents, security frameworks and practical safeguards.*
+
+## Further Reading and References
+
+The following resources provide additional information on cybersecurity, cryptocurrency security incidents and AI safety.
+
+1. **NIST – AI Risk Management Framework:** https://www.nist.gov/itl/ai-risk-management-framework
+2. **OWASP – Top 10 for Large Language Model Applications:** https://genai.owasp.org/
+3. **CISA – Secure by Design:** https://www.cisa.gov/securebydesign
+4. **NIST – Cybersecurity Framework:** https://www.nist.gov/cyberframework
+
+These resources will support further exploration of responsible AI development, cybersecurity practices and risk management.
