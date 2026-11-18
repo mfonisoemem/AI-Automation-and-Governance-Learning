@@ -40,3 +40,9 @@ Projects that demonstrate how automation can improve business operations across 
 ### 4. Project Management Automation
 
 Projects focused on improving project delivery and coordination through automated task management, status updates
+
+Expected Outcome
+
+By the end of this learning journey, I aim to have a portfolio of practical automation projects that demonstrate my understanding of workflow automation, n8n, AI integration, and the application of these technologies to real business problems.
+
+The focus is not simply on building workflows, but on understanding the problems they solve, the value they create, and how they can be managed effectively from a Project Management and business perspective.
