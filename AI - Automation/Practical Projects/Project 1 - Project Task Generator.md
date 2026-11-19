@@ -103,3 +103,5 @@ PM Task Tracker Google Sheet showing the generated task records.
 Project Resource:
 https://docs.google.com/spreadsheets/d/1VTwpv_JJeK7DgNxkibar6M4zsyi_njPs9b8_IHm1Vaw/edit?gid=0#gid=0
 
+![Project 1 n8n Workflow](project-1-workflow.png)
+
