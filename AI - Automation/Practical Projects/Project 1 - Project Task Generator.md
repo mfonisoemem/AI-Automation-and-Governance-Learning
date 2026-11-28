@@ -104,5 +104,4 @@ Project Resource:
 https://docs.google.com/spreadsheets/d/1VTwpv_JJeK7DgNxkibar6M4zsyi_njPs9b8_IHm1Vaw/edit?gid=0#gid=0
 
 
-![Project 1 - Project Task Generator](project-1-workflow.png)
 
