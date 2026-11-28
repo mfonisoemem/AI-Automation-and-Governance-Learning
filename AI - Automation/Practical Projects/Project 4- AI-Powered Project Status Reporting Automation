@@ -1,0 +1,52 @@
+##Project 4 - AI-Powered Project Status Reporting Automation.md
+
+1. Project Overview
+
+This project focuses on building an AI-powered project status reporting workflow using n8n.
+The workflow will collect project task updates, analyse progress against planned activities, identify overdue tasks and potential delays, and generate a structured project status report using AI.
+The objective is to demonstrate how workflow automation and AI can reduce manual reporting efforts, improve project visibility, and support timely decision-making.
+
+## 2. Problem Statement
+Project Managers often spend considerable time collecting updates from team members, reviewing task progress, identifying delays, and preparing project status reports.
+When project information is maintained across spreadsheets and other tools, consolidating updates manually can become repetitive and time-consuming. It can also make it difficult to identify overdue activities and emerging delivery risks promptly.
+This project addresses these challenges by automating the collection and analysis of project task data and using AI to generate clear, structured status reports that support project monitoring and decision-making.
+
+## 3. Project Objectives
+The objectives of this project are to:
+
+- Automate the collection of project task updates from a central data source.
+- Monitor task progress against planned deadlines.
+- Identify completed, ongoing, pending, and overdue tasks.
+- Calculate overall project progress using task data.
+- Use AI to generate structured project status reports.
+- Highlight potential delays and issues requiring the Project Manager's attention.
+- Reduce manual reporting efforts and improve project visibility.
+
+## 4. Tools and Technologies
+The project will use the following tools and technologies:
+
+n8n: Workflow automation and orchestration.
+Google Sheets: Centralised storage of project tasks, deadlines, owners, and progress updates.
+Google Gemini: AI-powered analysis and generation of project status reports.
+JavaScript: Basic data processing and calculations where required.
+Gmail: Automated delivery of generated project status reports.
+
+## 5. Workflow Design
+The automation will follow this sequence:
+- Workflow Trigger: Initiate the reporting process manually or at a scheduled interval.
+- Retrieve Project Data: Fetch task records from Google Sheets.
+- Process Task Information: Organise task details, calculate progress, and identify overdue activities.
+- AI Analysis: Send the processed project information to Google Gemini for analysis and report generation.
+- Format Status Report: Structure the AI-generated report into clear sections covering overall progress, completed tasks, ongoing activities, overdue tasks, and potential concerns.
+- Email Notification: Send the generated report to the designated recipient through Gmail.
+The workflow is designed to reduce manual reporting while keeping the Project Manager informed about project progress and activities requiring attention.
+
+## 6. Workflow Implementation
+
+## 7. Workflow Execution and Testing
+
+## 8. Challenges and Resolutions
+
+## 9. Project Outcomes and Business Value
+
+## 10. Workflow Screenshots and Resources
