@@ -154,4 +154,5 @@ The workflow generated structured meeting minutes, extracted individual action i
 The end-to-end test confirmed that both workflow branches operated as expected from a single form submission.
 
 ## 10
-![Project 5 - AI Meeting Action Tracker](Project5-workflow.png)
+![Project 5 - AI Meeting Action Tracker](Project-5-workflow.png)
+
